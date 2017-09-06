@@ -4,4 +4,4 @@ security:
 
 management:
   security:
-    enabled: fals
+    enabled: false
